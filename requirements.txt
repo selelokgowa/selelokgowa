@@ -1,0 +1,19 @@
+# Core Flask dependencies
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# NLP and Spell Checking
+spacy==3.7.2
+pyspellchecker==0.7.2
+
+# Additional utilities
+python-dateutil==2.8.2
+requests==2.31.0
+
+# Optional: For better performance
+gunicorn==21.2.0
+
+# Development dependencies (optional)
+pytest==7.4.3
+black==23.9.1
+flake8==6.1.0
