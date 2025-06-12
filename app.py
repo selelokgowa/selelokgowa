@@ -169,6 +169,39 @@ class HomeAffairsChatbot:
                 "Yes, but you must apply for retention of SA citizenship before obtaining another nationality.",
             "How do I obtain an unabridged birth certificate?":
                 "Apply at Home Affairs with proof of identity. Unabridged certificates show parents' details and are required for certain legal processes.",
+
+
+                            # South African ID Requirements
+            "What do I need to apply for a South African ID for the first time?":
+                "You need a South African birth certificate, biometric fingerprints, recent ID photos (if required), and proof of residence. First-time applications are free.",
+            "What age can I apply for a South African ID?":
+                "You can apply from the age of 16 years or older at any Home Affairs office.",
+            "Do I need both parents present to apply for an ID as a minor?":
+                "Yes, if you're under 18, both parents or legal guardians should be present with their ID documents.",
+            "What is required to replace a lost, stolen, or damaged ID?":
+                "You need an affidavit from the police, proof of identity, proof of residence, and R140 for the replacement fee.",
+            "What is a BI-9 form and do I need it?":
+                "The BI-9 form is an identity document application form completed at the Home Affairs office during your application.",
+            "Can I apply for a Smart ID Card online?":
+                "Yes, South African citizens can apply via the eHomeAffairs portal and book an appointment for biometric capture.",
+            "What is the cost of a Smart ID Card?":
+                "First-time applications are free. Replacements cost R140.",
+            "What documents are needed to upgrade from green ID book to Smart ID Card?":
+                "You need your current green ID book and proof of residence when visiting Home Affairs or a participating bank.",
+            "Can I apply for an ID without a birth certificate?":
+                "A birth certificate is required for first-time ID applications. If lost, apply for a copy at Home Affairs first.",
+            "How long does it take to get a Smart ID Card?":
+                "It usually takes 7 to 14 working days, but this may vary depending on demand and location.",
+            "What are the requirements for a Smart ID Card?":
+                "To apply for a Smart ID Card, you need to be a South African citizen aged 16 or older, have a valid birth certificate, proof of residence, and biometric fingerprints. The application can be done online or at Home Affairs offices.",
+            "What is the difference between a Smart ID Card and a green ID book?":
+                "The Smart ID Card is a secure, plastic card with biometric data and enhanced security features, while the green ID book is an older paper document. The Smart ID Card is more durable and easier to carry.",       
+            "How do I check the status of my ID application?":
+                "You can check the status of your ID application online via the Department of Home Affairs website or by visiting your nearest Home Affairs office.",
+            "What should I do if my ID card is damaged or lost?":
+                "If your ID card is damaged or lost, you should report it to the police and obtain an affidavit. Then, apply for a replacement at Home Affairs with your supporting documents and pay the replacement fee.",    
+                
+
         }
 
         # Keywords for better matching
