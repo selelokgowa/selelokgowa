@@ -200,7 +200,34 @@ class HomeAffairsChatbot:
                 "You can check the status of your ID application online via the Department of Home Affairs website or by visiting your nearest Home Affairs office.",
             "What should I do if my ID card is damaged or lost?":
                 "If your ID card is damaged or lost, you should report it to the police and obtain an affidavit. Then, apply for a replacement at Home Affairs with your supporting documents and pay the replacement fee.",    
-                
+           "How can I update my personal information on my ID?":
+                "To update personal information on your ID, such as a name change due to marriage or divorce, you need to provide supporting documents (e.g., marriage certificate, divorce decree) and visit a Home Affairs office to apply for an update.",
+            "What is the process for obtaining a temporary ID?":
+                "If you need an ID urgently, you can apply for a temporary ID at Home Affairs. This is usually issued while you wait for your Smart ID Card or replacement to be processed.",
+            "Can I use my Smart ID Card for travel?":
+                "Yes, the Smart ID Card can be used for domestic travel within South Africa. For international travel, you will still need a passport.",
+            "what are the requirements for a South African passport?":
+              "You need your South African ID, a completed passport application, and payment of the applicable fee.",
+            "What is the cost of a South African passport?":
+                "An adult passport costs R600. A maxi passport (48 pages) costs R1,200. Child passports cost R600.",
+            "What documents are required for a child’s passport?":
+                "You need the child’s unabridged birth certificate, both parents' IDs, and their consent. The child must also be present.",
+            "Can I apply for a passport online?":
+                "Yes, use the eHomeAffairs website to apply, pay, and book a biometric appointment at a bank or DHA office.",
+            "How long does it take to get a passport?":
+                "Processing typically takes 7 to 14 working days, but delays may occur during high-demand periods.",
+            "What is required to replace a lost or stolen passport?":
+                "You need an affidavit from SAPS, your ID or birth certificate, and payment of the replacement fee.",
+            "Can I get a passport if I have dual citizenship?":
+                "Yes, but you must have retained your South African citizenship legally. Always enter/leave SA with your SA passport.",
+            "Do I need ID photos for a passport application?":
+                "No, Home Affairs captures your photo digitally during the application unless instructed otherwise.",
+            "Is parental consent needed for a child’s passport?":
+                "Yes, both parents or legal guardians must give written consent and be present at the application.",
+            "What is a maxi passport and who should apply for it?":
+                "A maxi passport has 48 pages and is ideal for frequent travelers. It costs R1,200 and is valid for 10 years.",
+
+                 
 
         }
 
